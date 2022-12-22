@@ -1,8 +1,13 @@
 ---
 layout: homepage
 title: Harmony In Diversity Gallery
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+description: The Harmony in Diversity Gallery (HDG) was developed by the
+  Ministry of Home Affairs in collaboration with community partners and
+  organisations. The Gallery aims to promote an appreciation of Singapore's rich
+  religious diversity. It hopes this will foster a spirit of give and take,
+  mutual respect and understanding, necessary to nurture and strengthen the
+  religious peace and harmony we enjoy today.
+image: /images/masthead_logo_270.png
 permalink: /
 notification: ""
 sections:
@@ -43,3 +48,4 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
+
