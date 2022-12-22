@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/carousel1.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -19,17 +19,14 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      subtitle: ABOUT THE GALLERY
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      subtitle: "GALLERY ONE: JOURNEY OF FAITH"
+      description: Singapore is one of the most religiously diverse countries in the
+        world, and we celebrate our rich religious heritage as a source of
+        strength.
+      alt: "GALLERY ONE: JOURNEY OF FAITH"
+      image: /images/G1_1.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
