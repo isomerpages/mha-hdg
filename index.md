@@ -33,14 +33,14 @@ sections:
       description: Singapore is one of the most religiously diverse countries in the
         world, and we celebrate our rich religious heritage as a source of
         strength.
-      alt: "GALLERY ONE: JOURNEY OF FAITH"
+      alt: "G1: JOURNEY OF FAITH"
       image: /images/G1_1.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      subtitle: SEEKING WHAT IS COMMON
+      description: This gallery explores the threads of commonality woven into
+        Singapore's rich religious tapestry.
+      alt: "G2: SEEKING WHAT IS COMMON"
+      image: /images/G2_1.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
@@ -48,4 +48,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
