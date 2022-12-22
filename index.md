@@ -42,9 +42,9 @@ sections:
       alt: "G2: SEEKING WHAT IS COMMON"
       image: /images/G2_1.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      subtitle: MANY FAITHS, ONE PEOPLE
+      description: Singapore's common spaces - places where people of different races
+        and faiths interact and create shared experiences.
+      alt: "G3: MANY FAITHS, ONE PEOPLE"
+      image: /images/G3_1.jpg
 ---
