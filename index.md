@@ -47,4 +47,10 @@ sections:
         and faiths interact and create shared experiences.
       alt: "G3: MANY FAITHS, ONE PEOPLE"
       image: /images/G3_1.jpg
+  - infopic:
+      subtitle: WE, THE PEOPLE OF SINGAPORE
+      description: In this final gallery, visitors are invited to reflect on the role
+        we can play in helping to sustain a harmonious Singapore.
+      image: /images/g4-tree.jpg
+      alt: Image alt text
 ---
