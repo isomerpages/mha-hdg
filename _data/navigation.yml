@@ -6,6 +6,3 @@ links:
     url: /contact/
   - title: Example Folder
     collection: example-folder
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
