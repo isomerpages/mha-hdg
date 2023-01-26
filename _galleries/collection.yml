@@ -2,6 +2,7 @@ collections:
   galleries:
     output: true
     order:
+      - "GALLERY FOUR: WE, THE PEOPLE OF SINGAPORE.md"
       - "GALLERY THREE: MANY FAITHS, ONE PEOPLE.md"
       - "GALLERY ONE: JOURNEY OF FAITH.md"
       - "GALLERY TWO: SEEKING WHAT IS COMMON.md"
