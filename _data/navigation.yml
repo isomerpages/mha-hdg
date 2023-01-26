@@ -1,8 +1,8 @@
 logo: /images/masthead_logo_270.png
 links:
+  - title: GALLERIES
+    collection: galleries
   - title: Contact Us
     url: /contact-us/
   - title: Contact
     url: /contact/
-  - title: GALLERIES
-    collection: galleries
