@@ -2,4 +2,5 @@ collections:
   galleries:
     output: true
     order:
+      - "GALLERY TWO: SEEKING WHAT IS COMMON.md"
       - "GALLERY ONE: JOURNEY OF FAITH.md"
