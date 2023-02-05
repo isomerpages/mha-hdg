@@ -18,6 +18,8 @@ sections:
       description: The Harmony in Diversity Gallery (HDG) was developed by the
         Ministry of Home Affairs in collaboration with community partners and
         organisations.
+  - infobar:
+      description: test
   - infopic:
       subtitle: "GALLERY ONE: JOURNEY OF FAITH"
       description: Singapore is one of the most religiously diverse countries in the
