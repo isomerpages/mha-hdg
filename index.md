@@ -29,6 +29,8 @@ sections:
         strength.
       alt: "G1: JOURNEY OF FAITH"
       image: /images/G1_1.jpg
+      button: Proceed to G1
+      url: /test
   - infopic:
       subtitle: SEEKING WHAT IS COMMON
       description: This gallery explores the threads of commonality woven into
