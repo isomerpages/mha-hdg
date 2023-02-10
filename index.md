@@ -18,6 +18,8 @@ sections:
       description: The Harmony in Diversity Gallery (HDG) was developed by the
         Ministry of Home Affairs in collaboration with community partners and
         organisations.
+      button: Click Me
+      url: /galleries/journey-of-faith/
   - infobar:
       description: test
   - infopic:
