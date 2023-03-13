@@ -15,9 +15,8 @@ sections:
       background: /images/carousel1.jpg
   - infobar:
       subtitle: ABOUT THE GALLERY
-      description: The Harmony in Diversity Gallery (HDG) was developed by the
-        Ministry of Home Affairs in collaboration with community partners and
-        organisations.
+      description: The HDG was set up by MHA in collaboration with community partners
+        to foster an appreciation of Singapore’s rich religious diversity.
       button: Click Me
       url: /galleries/journey-of-faith/
   - infobar:
