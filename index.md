@@ -19,8 +19,6 @@ sections:
         to foster an appreciation of Singapore’s rich religious diversity.
       button: Click Me
       url: /galleries/journey-of-faith/
-  - infobar:
-      description: test
   - infopic:
       subtitle: "GALLERY ONE: JOURNEY OF FAITH"
       description: Singapore is one of the most religiously diverse countries in the
@@ -30,6 +28,9 @@ sections:
       image: /images/G1_1.jpg
       button: Proceed to G1
       url: /test
+  - infobar:
+      description: test
+      title: sdf
   - infopic:
       subtitle: SEEKING WHAT IS COMMON
       description: This gallery explores the threads of commonality woven into
