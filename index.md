@@ -18,7 +18,7 @@ sections:
       description: The HDG was set up by MHA in collaboration with community partners
         to foster an appreciation of Singapore’s rich religious diversity.
       button: Click Me
-      url: /galleries/journey-of-faith/
+      url: /about
   - infopic:
       subtitle: JOURNEY OF FAITH
       description: "Singapore’s religious diversity can be a source of strength or
