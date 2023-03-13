@@ -23,14 +23,14 @@ sections:
       description: test
       title: sdf
   - infopic:
-      subtitle: "GALLERY ONE: JOURNEY OF FAITH"
+      subtitle: JOURNEY OF FAITH
       description: "Singapore’s religious diversity can be a source of strength or
         friction. Come and explore how religion is an inherent fault line in
         many societies. "
       alt: "G1: JOURNEY OF FAITH"
       image: /images/G1_1.jpg
-      button: Proceed to G1
-      url: /test
+      button: Proceed to Gallery One
+      url: /galleries/journey-of-faith
   - infopic:
       subtitle: SEEKING WHAT IS COMMON
       description: Learn how Singapore’s faith communities have contributed to its
