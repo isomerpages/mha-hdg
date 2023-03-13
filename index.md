@@ -40,8 +40,9 @@ sections:
       image: /images/G2_1.jpg
   - infopic:
       subtitle: MANY FAITHS, ONE PEOPLE
-      description: Singapore's common spaces - places where people of different races
-        and faiths interact and create shared experiences.
+      description: Singapore’s common spaces are a central building block of religious
+        harmony. Take a look at how the state, the community and the individual
+        can protect them.
       alt: "G3: MANY FAITHS, ONE PEOPLE"
       image: /images/G3_1.jpg
   - infopic:
