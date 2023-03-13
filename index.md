@@ -44,11 +44,15 @@ sections:
         can protect them.
       alt: "G3: MANY FAITHS, ONE PEOPLE"
       image: /images/G3_1.jpg
+      button: Proceed to Gallery Three
+      url: /galleries/many-faiths-one-people
   - infopic:
       subtitle: WE, THE PEOPLE OF SINGAPORE
       description: Come and reflect on the role you can play in helping to sustain a
         harmonious Singapore. Make a personal commitment to preserve this
         precious legacy.
       image: /images/g4-tree.jpg
-      alt: Image alt text
+      alt: Tree
+      url: /galleries/we-the-people-of-singapore
+      button: Proceed to Gallery Four
 ---
