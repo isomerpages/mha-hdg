@@ -33,8 +33,9 @@ sections:
       url: /test
   - infopic:
       subtitle: SEEKING WHAT IS COMMON
-      description: This gallery explores the threads of commonality woven into
-        Singapore's rich religious tapestry.
+      description: Learn how Singapore’s faith communities have contributed to its
+        development, and how each religion’s values and practices are similarly
+        shared and expressed.
       alt: "G2: SEEKING WHAT IS COMMON"
       image: /images/G2_1.jpg
   - infopic:
