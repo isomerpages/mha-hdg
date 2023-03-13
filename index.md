@@ -19,9 +19,6 @@ sections:
         to foster an appreciation of Singapore’s rich religious diversity.
       button: Click Me
       url: /galleries/journey-of-faith/
-  - infobar:
-      description: test
-      title: sdf
   - infopic:
       subtitle: JOURNEY OF FAITH
       description: "Singapore’s religious diversity can be a source of strength or
@@ -38,6 +35,8 @@ sections:
         shared and expressed.
       alt: "G2: SEEKING WHAT IS COMMON"
       image: /images/G2_1.jpg
+      button: Proceed to Gallery Two
+      url: /galleries/seeking-what-is-common
   - infopic:
       subtitle: MANY FAITHS, ONE PEOPLE
       description: Singapore’s common spaces are a central building block of religious
