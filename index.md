@@ -47,8 +47,9 @@ sections:
       image: /images/G3_1.jpg
   - infopic:
       subtitle: WE, THE PEOPLE OF SINGAPORE
-      description: In this final gallery, visitors are invited to reflect on the role
-        we can play in helping to sustain a harmonious Singapore.
+      description: Come and reflect on the role you can play in helping to sustain a
+        harmonious Singapore. Make a personal commitment to preserve this
+        precious legacy.
       image: /images/g4-tree.jpg
       alt: Image alt text
 ---
