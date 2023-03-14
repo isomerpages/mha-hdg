@@ -1,7 +1,11 @@
 logo: /images/masthead_logo_270.png
 links:
+  - title: ABOUT
+    url: /about
   - title: GALLERIES
     collection: galleries
+  - title: STREETS OF HARMONY
+    collection: streets-of-harmony
   - title: CONTACT
     url: /contact/
   - title: BOOK A VISIT
