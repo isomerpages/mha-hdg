@@ -55,4 +55,11 @@ sections:
       alt: Tree
       url: /galleries/we-the-people-of-singapore
       button: Proceed to Gallery Four
+  - infopic:
+      title: Streets of Harmony
+      description: "Take a (virtual tour or * ) walk along these streets to see how
+        close together the different religious sites are located. "
+      button: View More
+      url: /streets-of-harmony
+      alt: Image alt text
 ---
