@@ -1,4 +1,5 @@
 collections:
   streets-of-harmony:
     output: true
-    order: []
+    order:
+      - Telok Ayer & Amoy Streets.md
