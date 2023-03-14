@@ -2,5 +2,5 @@ collections:
   streets-of-harmony:
     output: true
     order:
-      - Waterloo and Bencoolen.md
       - Telok Ayer & Amoy Streets.md
+      - Waterloo and Bencoolen.md
