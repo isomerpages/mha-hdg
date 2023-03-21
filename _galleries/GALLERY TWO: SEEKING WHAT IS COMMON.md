@@ -11,5 +11,5 @@ There have been occasions when our social cohesion and harmony have been tested.
 
 Will we let our differences divide us or our commonalities unite us?
 
-|<div style="width: 150px;">![Gallery 2 Highlights](/images/G2_highlights.jpg)</div>| **Travel Back in Time:** Join 13-year-old Anne as she seeks to understand how and why the Maria Hertogh Riots took place.<br /><br />**Time to Explore:** Take a look at the unique artefacts of different religions on display and discover what they have in common. |
+|![Gallery 2 Highlights](/images/G2_highlights.jpg)| **Travel Back in Time:** Join 13-year-old Anne as she seeks to understand how and why the Maria Hertogh Riots took place.<br /><br />**Time to Explore:** Take a look at the unique artefacts of different religions on display and discover what they have in common. |
 | -------- | -------- |
