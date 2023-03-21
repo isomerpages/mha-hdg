@@ -2,6 +2,7 @@ collections:
   galleries:
     output: true
     order:
+      - Example Title.md
       - "GALLERY ONE: JOURNEY OF FAITH.md"
       - "GALLERY TWO: SEEKING WHAT IS COMMON.md"
       - "GALLERY THREE: MANY FAITHS, ONE PEOPLE.md"
