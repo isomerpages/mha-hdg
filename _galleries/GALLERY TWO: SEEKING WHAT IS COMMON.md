@@ -10,3 +10,6 @@ This gallery explores the threads of commonality woven into Singapore's rich rel
 There have been occasions when our social cohesion and harmony have been tested. This gallery examines the dangers of accentuated religious differences and a lack of interfaith understanding. A multimedia exhibit brings the Maria Hertogh Riots to life, highlighting the causes and lessons of the riots.
 
 Will we let our differences divide us or our commonalities unite us?
+
+|![Gallery 2 Highlights](/images/G2_highlights.jpg)| **Travel Back in Time:** Join 13-year-old Anne as she seeks to understand how and why the Maria Hertogh Riots took place.<br /><br />**Time to Explore:** Take a look at the unique artefacts of different religions on display and discover what they have in common. |
+| -------- | -------- |
