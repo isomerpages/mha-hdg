@@ -63,7 +63,7 @@ sections:
       title: Streets of Harmony
       description: "Take a (virtual tour or * ) walk along these streets to see how
         close together the different religious sites are located. "
-      button: View More
-      url: /streets-of-harmony
+      button: View more
+      url: /streets-of-harmony/telok-aye-amoy-streets
       alt: Image alt text
 ---
