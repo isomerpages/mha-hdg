@@ -9,5 +9,5 @@ Singapore is one of the most religiously diverse countries in the world, and we 
 
 <div class="row" style="background: #f680a3; color:#fff;">
 <div class="col is-4"><img  src="/images/G1_highlights.jpg"/></div>
-<div class="col is-8">Take a Poll: How much do you know about Singapore's faith communities? What are your thoughts about our religious harmony and diversity? Participate in our interactive quiz and find out!</div>
+	<div class="col is-8"><b>Take a Poll:</b> How much do you know about Singapore's faith communities? What are your thoughts about our religious harmony and diversity? Participate in our interactive quiz and find out!</div>
 </div>
