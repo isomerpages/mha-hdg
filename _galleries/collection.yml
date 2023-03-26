@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Gallery One.md
-      - "GALLERY TWO: SEEKING WHAT IS COMMON.md"
+      - Seeking what is common.md
       - "GALLERY THREE: MANY FAITHS, ONE PEOPLE.md"
       - We, the people of Singapore.md
