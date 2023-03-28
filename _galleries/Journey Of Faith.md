@@ -9,7 +9,12 @@ Those that profess no religious affiliation make up a significant 20% of the pop
 Singapore is one of the most religiously diverse countries in the world, and we celebrate our rich religious heritage as a source of strength. However, this diversity can also be a source of friction. Through examples of inter-religious conflict from around the world, this gallery encourages visitors to consider how religion is an inherent fault line in many societies, and how the religious harmony we enjoy today is always a work in progress.
 
 <div class="row" style="background: #f680a3; color:#fff;">
-<div class="col is-6"><img  src="/images/Gallery%201%20video.jpg"/>
+<div class="col is-6"><img  src="/images/Gallery%201%20video%203.jpg"/>
+	</div>
+	<div class="col is-6"><img src="/images/Gallery%201%20video.jpg"/></div>
+</div>
+<div class="row" style="background: #f680a3; color:#fff;">
+<div class="col is-6"><img  src="/images/Polling%20Station%203B.jpg"/>
 	</div>
 	<div class="col is-6"><img src="/images/Polling%20Station%203A.jpg"/></div>
 </div>
