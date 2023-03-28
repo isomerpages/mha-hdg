@@ -7,14 +7,14 @@ description: ""
 
 In this final gallery, visitors are invited to reflect on the role we can play in helping to sustain a harmonious Singapore. Challenge yourself to make a personal commitment to preserving this precious legacy and share your pledge to inspire others.<br /><br />
 
-<div class="row" style="background:#a6d994; color:#fff;">
+<div class="row" style="background:#a6d994;">
 <div class="col is-6"><img src="/images/Gallery%204%20(1).jpg" alt="Gallery 4" />
 	</div>
 	<div class="col is-6"><img src="/images/Gallery%204.jpg" alt="Gallery 4 Interaction" />
 	</div>
 	</div>
 
-<div class="row" style="background:#a6d994; color:#fff;">
+<div class="row" style="background:#a6d994;">
 <div class="col is-4">
 	<img src="/images/G4_highlights.jpg" alt="Gallery 4 Highlights" />
 	</div>
