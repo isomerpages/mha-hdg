@@ -13,12 +13,12 @@ This gallery explores the threads of commonality woven into Singapore's rich rel
 There have been occasions when our social cohesion and harmony have been tested. This gallery examines the dangers of accentuated religious differences and a lack of interfaith understanding. A multimedia exhibit brings the Maria Hertogh Riots to life, highlighting the causes and lessons of the riots.
 
 Will we let our differences divide us or our commonalities unite us?<br /><br />
-<div class="row" style="background: #bd9cc7; color:#fff;">
+<div class="row" style="background: #bd9cc7;">
 <div class="col is-6"><img src="/images/Gallery%202%20Common%20Practice%201.jpg" alt="Gallery 2 - Common Practice 1" /></div>
 	<div class="col is-6"><img src="/images/Gallery%202%20Common%20Practice%203.jpg" alt="Gallery 2 - Common Practice 3" /></div>
 </div>
 
-<div class="row" style="background: #bd9cc7; color:#fff;">
+<div class="row" style="background: #bd9cc7;">
 <div class="col is-6"><img src="/images/Gallery%202%20Religions%201.jpg" alt="Gallery 2 - Religions 1" />
 	</div>
 	<div class="col is-6"><img src="/images/Gallery%202%20Religions%202.jpg" alt="Gallery 2 - Religions 2" />
