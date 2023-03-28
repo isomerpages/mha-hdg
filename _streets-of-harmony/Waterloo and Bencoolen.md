@@ -9,11 +9,11 @@ Located in the former Jewish neighbourhood, Maghain Aboth Synagogue is the oldes
 
 [Suggest image of st peter and paul church](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/church-of-saints-peter-and-paul)
 
-The Church of Saints Peter and Paul is one of the oldest Catholic churches in Singapore that catered to a predominantly Chinese congregation. It is situated in the vicinity of the Cathedral of the Good Shepherd, Former Saint Joseph’s Institution, and Saint Joseph’s Church. Built more than a century ago, it stands today as a testimony to the spread of the Catholic faith and also to the contributions of Catholic missionaries to education in Singapore.
+The Church of Saints Peter and Paul is one of the oldest Catholic churches in Singapore that catered to a predominantly Chinese congregation. It is situated in the vicinity of the [Cathedral of the Good Shepherd](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/cathedral-of-the-good-shepherd), [Former Saint Joseph’s Institution](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/former-saint-josephs-institution-now-singapore-art-museum), and [Saint Joseph’s Church](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/cathedral-of-the-good-shepherd). Built more than a century ago, it stands today as a testimony to the spread of the Catholic faith and also to the contributions of Catholic missionaries to education in Singapore.
 
 [Suggest image of Kwan Im Thong Hood Cho Temple](https://eresources.nlb.gov.sg/infopedia/articles/SIP_275_2005-01-03.html )
 
-Kwan Im Thong Hood Cho Temple, located on Waterloo Street, is a popular place of worship for devotees of Guan Yin, the Chinese goddess of mercy.1 Built in 1884, it is one of the oldest Buddhist temples in Singapore and a hallmark of late-19th-century Chinese temple courtyard architecture.2 The temple is known for its philanthropy.
+Kwan Im Thong Hood Cho Temple, located on [Waterloo Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_270_2005-01-25.html), is a popular place of worship for devotees of Guan Yin, the Chinese goddess of mercy.1 Built in 1884, it is one of the oldest Buddhist temples in Singapore and a hallmark of late-19th-century Chinese temple courtyard architecture.2 The temple is known for its philanthropy.
 
 [Suggest image of sri krishnan temple](https://www.roots.gov.sg/places/places-landing/Places/historic-sites/sri-krishnan-temple)
 
