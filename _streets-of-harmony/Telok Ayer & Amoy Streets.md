@@ -8,7 +8,7 @@ description: Telok Ayer Street extends from Market Street to Anson Road. Telok
   clan associations along the street. The street thus gives a useful insight
   into the life of early Chinese immigrants.
 ---
-Telok Ayer Street extends from Market Street to Anson Road. Telok Ayer was designated a Chinese district by Stamford Raffles in 1822 and gained prominence in the 1820s because it served as the landing site for early immigrants. This led to a concentration of religious buildings and Chinese clan associations along the street. The street thus gives a useful insight into the life of early Chinese immigrants.
+Telok Ayer Street extends from [Market Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_351_2005-01-11.html) to [Anson Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_348_2004-12-17.htm). Telok Ayer was designated a Chinese district by [Stamford Raffles](https://eresources.nlb.gov.sg/infopedia/articles/SIP_715_2004-12-15.html) in 1822 and gained prominence in the 1820s because it served as the landing site for early immigrants. This led to a concentration of religious buildings and Chinese clan associations along the street. The street thus gives a useful insight into the life of early Chinese immigrants.
 
 **History**  
 Telok Ayer Street used to face the original seafront and served as docking bay for the boats and [_sampans_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_958_2005-01-06.html) of early immigrants. Grateful for a safe journey, many set up altars and worship houses to give thanks to their gods.   
