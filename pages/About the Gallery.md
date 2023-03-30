@@ -15,3 +15,5 @@ The HDG comprises four galleries of exhibits, artefacts and interactive features
 Within Singapore's rich tapestry of faiths, threads of commonality are interwoven. The Gallery highlights the importance of seeking common ground to build mutual respect and appreciation for the beliefs of others, and the need to protect and expand our common spaces. Join us on this journey of discovery as we learn to embrace our diversity, appreciate our commonalities, and above all, celebrate our unique identity - one that recognises that we all have a part to play to protect this precious legacy.
 
 Only then can harmony in diversity truly be possible.
+
+[VISIT US](/contact)
