@@ -3,7 +3,10 @@ title: About the Gallery
 permalink: /about/
 description: Learn more about Harmony in Diversity Gallery
 ---
-<img style="width:200px; display: block; margin-left: auto; margin-right: auto;" src="/images/MHAlogo_572.png" />
+<div class="row">
+	<div class="col is-6"><img style="padding-top: 30px; width:260px; display: block; margin-left: auto; margin-right: auto;" alt="MHA Logo" src="/images/MHAlogo_572.png" /></div>
+	<div class="col is-6"><img style="width:200px; display: block; margin-left: auto; margin-right: auto;" alt="IRO Logo" src="/images/IRO%20logo.jpg" /></div>
+	</div>
 
 The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
 
