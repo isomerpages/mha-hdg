@@ -13,10 +13,6 @@ notification: ""
 sections:
   - hero:
       background: /images/carousel1.jpg
-      button: Read more
-      url: /about
-      subtitle: The HDG was set up by MHA in collaboration with community partners to
-        foster an appreciation of Singapore’s rich religious diversity.
   - infobar:
       subtitle: ABOUT THE GALLERY
       description: The HDG was set up by MHA in collaboration with community partners
