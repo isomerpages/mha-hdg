@@ -15,12 +15,6 @@ There have been occasions when our social cohesion and harmony have been tested.
 Will we let our differences divide us or our commonalities unite us?<br /><br />
 <div class="row" style="background: #bd9cc7;">
 <div class="col is-6"><img src="/images/Gallery%202%20Common%20Practice%201.jpg" alt="Gallery 2 - Common Practice 1" /></div>
-	<div class="col is-6"><img src="/images/Gallery%202%20Common%20Practice%203.jpg" alt="Gallery 2 - Common Practice 3" /></div>
-</div>
-
-<div class="row" style="background: #bd9cc7;">
-<div class="col is-6"><img src="/images/Gallery%202%20Religions%201.jpg" alt="Gallery 2 - Religions 1" />
-	</div>
 	<div class="col is-6"><img src="/images/Gallery%202%20Religions%202.jpg" alt="Gallery 2 - Religions 2" />
 	</div>
 	</div>
