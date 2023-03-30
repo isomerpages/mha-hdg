@@ -8,7 +8,7 @@ description: Learn more about Harmony in Diversity Gallery
 	<div class="col is-6"><img style="width:200px; display: block; margin-left: auto; margin-right: auto;" alt="IRO Logo" src="/images/IRO%20logo.jpg" /></div>
 	</div>
 
-The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations. The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
+The Harmony in Diversity Gallery (HDG) was developed by the Ministry of Home Affairs in collaboration with community partners and organisations like the Inter-Religious Organisation (IRO). The Gallery aims to promote an appreciation of Singapore's rich religious diversity. It hopes this will foster a spirit of give and take, mutual respect and understanding, necessary to nurture and strengthen the religious peace and harmony we enjoy today.
 
 The HDG comprises four galleries of exhibits, artefacts and interactive features. Through this immersive and engaging platform, we hope to demonstrate the centrality of religious harmony to Singapore's continued development, as well as the efforts required to build interfaith peace in a religiously diverse society.
 
