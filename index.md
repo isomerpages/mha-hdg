@@ -17,7 +17,7 @@ sections:
       subtitle: ABOUT THE GALLERY
       description: The HDG was set up by MHA in collaboration with community partners
         to foster an appreciation of Singapore’s rich religious diversity.
-      button: Click Me
+      button: Read Me
       url: /about
   - infopic:
       subtitle: JOURNEY OF FAITH
