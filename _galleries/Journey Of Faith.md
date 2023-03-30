@@ -4,14 +4,13 @@ permalink: /galleries/journey-of-faith/
 description: ""
 ---
 ![Pie Chart of various Faiths](/images/piechart%20of%20various%20faiths.jpg)
-Those that profess no religious affiliation make up a significant 20% of the population.
 
 Singapore is one of the most religiously diverse countries in the world, and we celebrate our rich religious heritage as a source of strength. However, this diversity can also be a source of friction. Through examples of inter-religious conflict from around the world, this gallery encourages visitors to consider how religion is an inherent fault line in many societies, and how the religious harmony we enjoy today is always a work in progress.<br /><br />
 
 <div class="row" style="background: #f680a3; color:#fff;">
-<div class="col is-6"><img  src="/images/Gallery%201%20video%203.jpg" alt="Gallery 1 - Video" />
+<div class="col is-6"><img src="/images/Gallery%201%20video.jpg" alt="Gallery 1 - Video 2"/>
 	</div>
-	<div class="col is-6"><img src="/images/Gallery%201%20video.jpg" alt="Gallery 1 - Video 2"/></div>
+	<div class="col is-6"><img  src="/images/Gallery%201%20video%203.jpg" alt="Gallery 1 - Video" /></div>
 </div>
 <div class="row" style="background: #f680a3; color:#fff;">
 <div class="col is-6"><img  src="/images/Polling%20Station%203B.jpg" alt="Gallery 1 - Polling Station"/>
