@@ -32,3 +32,5 @@ For any enquiries or feedback, please email us at [MHA\_HDG@mha.gov.sg](mailto:
 | **By Bus** | **By MRT** | **By Car** |
 | -------- | -------- | -------- |
 | Cecil Street Bus-stop (03151) 57, 131, 167, 186, 400, 970, 971 | Tanjong Pagar MRT Station (5-minute walk), Maxwell MRT Station (7-minute walk), Telok Ayer MRT Station (10-minute walk) | Parking is available at MND Complex Annexe A. The car park can be accessed from Maxwell Road and is located on the same level as the Gallery. |
+
+[VIEW VISITOR POLICIES & GALLERY ETIQUETTE](/visitor-policies)
