@@ -13,7 +13,7 @@ The Church of Saints Peter and Paul is one of the oldest Catholic churches in Si
 
 [Suggest image of Kwan Im Thong Hood Cho Temple](https://eresources.nlb.gov.sg/infopedia/articles/SIP_275_2005-01-03.html )
 
-Kwan Im Thong Hood Cho Temple, located on [Waterloo Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_270_2005-01-25.html), is a popular place of worship for devotees of Guan Yin, the Chinese goddess of mercy.1 Built in 1884, it is one of the oldest Buddhist temples in Singapore and a hallmark of late-19th-century Chinese temple courtyard architecture.2 The temple is known for its philanthropy.
+Kwan Im Thong Hood Cho Temple, located on [Waterloo Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_270_2005-01-25.html), is a popular place of worship for devotees of Guan Yin, the Chinese goddess of mercy.1 Built in 1884, it is one of the oldest Buddhist temples in Singapore and a hallmark of late-19th-century Chinese temple courtyard architecture. The temple is known for its philanthropy.
 
 [Suggest image of sri krishnan temple](https://www.roots.gov.sg/places/places-landing/Places/historic-sites/sri-krishnan-temple)
 
