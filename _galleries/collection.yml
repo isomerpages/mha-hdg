@@ -1,0 +1,8 @@
+collections:
+  galleries:
+    output: true
+    order:
+      - Journey Of Faith.md
+      - Seeking What Is Common.md
+      - Many Faiths, One People.md
+      - We, The People Of Singapore.md

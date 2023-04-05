@@ -1,0 +1,5 @@
+collections:
+  facilities:
+    output: true
+    order:
+      - Seminar Room.md
