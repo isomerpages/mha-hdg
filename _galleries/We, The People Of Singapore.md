@@ -8,7 +8,7 @@ description: Find out more about our fourth gallery titled 'We, The People Of Si
 In this final gallery, visitors are invited to reflect on the role we can play in helping to sustain a harmonious Singapore. Challenge yourself to make a personal commitment to preserving this precious legacy and share your pledge to inspire others.<br><br>
 
 <div class="row" style="background:#a6d994;">
-<div class="col is-6"><img src="/images/Gallery%204%20(1).jpg" alt="Gallery 4">
+<div class="col is-6"><img src="/images/gallery%204%20.jpg" alt="Gallery 4">
 	</div>
 	<div class="col is-6"><img src="/images/Gallery%204.jpg" alt="Gallery 4 Interaction">
 	</div>
