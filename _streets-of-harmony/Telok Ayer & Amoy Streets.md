@@ -28,9 +28,11 @@ The Hokkiens from Fujian, China, set up a simple shrine in 1819, dedicated to th
 Next to the Thian Hock Keng Temple is the Taoist Mission or the Singapore Yu Huang Gong, situated in a 180 year old building previously owned by a self help organisation started by **Peranakan** Hokkiens from Singapore and Malacca.  It is often mistaken as part of the larger Thian Hock Keng Temple.
 
 ![Telok Ayer Methodist Church](/images/Telok%20Ayer%20Methodist%20Church.jpg)
+
 The **[Telok Ayer Chinese Methodist Church](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/telok-ayer-chinese-methodist-church)** build in 1925 could trace its history to a shophouse (no longer in existence) at Upper Nanking Street in 1889.  Its pioneering missionary Dr Benjamin West preached in Malay which was then translated into Hokkien. Today it holds services in Mandarin, Hokkien, English and Bahasa Indonesia.
 
 ![Al Abrar Mosque, THK Temple and Nagore Durgha](/images/al%20abrar%20mosque%20thk%20temple%20and%20nagore%20durgha.jpg)
+
 The **[Al-Abrar Mosque](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/al-abrar-mosque)** located at 192 Telok Ayer Street was established in 1827 for the Tamil Muslim Chulias from south India. The present building was built between 1850 and 1855 and it was also also known as  Masjid Chulia or Chulia Mosque
 
 One of the oldest Hokkien temples in Singapore, the **[Thian Hock Keng Temple](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/thian-hock-keng)** was a humble joss house in 1821-22. It was erected in honour of Ma Zu Po, the Protector of Sojourners, and Chinese immigrants would go there to offer thanks for a safe sea passage from China . Between 1839 to 1842, the joss house was rebuilt as Thian Hock Keng Temple by philanthropist Tan Tock Seng.
