@@ -62,4 +62,5 @@ sections:
       url: /streets-of-harmony/telok-aye-amoy-streets
       alt: Image alt text
       subtitle: Streets of Harmony
+      image: /images/walking map.jpg
 ---
