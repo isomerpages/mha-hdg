@@ -11,4 +11,4 @@ description: Seminar cum activity room with an AV projection system that can
 	<div class="col is-6"><img src="/images/Seminar%20Room%20-%20RI%20Visit.jpg" alt="Seminar Room"></div>
 </div>
 
-Seminar cum activity room with an AV projection system that can accommodate up to 64 persons is also available for booking.
+The seminar cum activity room, with an AV projection system that can accommodate up to 64 persons is also available for booking should visitors need a space for group reflections and sharing. 
