@@ -10,7 +10,7 @@ In this final gallery, visitors are invited to reflect on the role we can play i
 <div class="row" style="background:#a6d994;">
 <div class="col is-6"><img src="/images/gallery%204%20.jpg" alt="Gallery 4">
 	</div>
-	<div class="col is-6"><img src="/images/Gallery%204.jpg" alt="Gallery 4 Interaction">
+	<div class="col is-6"><img src="/images/gallery%204%20(2).jpg" alt="Gallery 4 Interaction">
 	</div>
 	</div>
 
