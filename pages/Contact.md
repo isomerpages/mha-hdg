@@ -13,7 +13,7 @@ Ministry of National Development (MND) Building Annexe B
 (above Amoy Street Hawker Centre via stairs or lifts A, B and C at both ends of the Hawker Centre)
 
 **Contact**  
-6221 8942
+[6221 8942](tel:62218942)
 
 **Gallery Opening Hours**  
 Mondays to Saturdays  
