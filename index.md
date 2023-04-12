@@ -61,6 +61,5 @@ sections:
       button: View more
       url: /streets-of-harmony/telok-aye-amoy-streets
       alt: Image alt text
-      image: /images/Telok Ayer Street.jpg
       subtitle: Streets of Harmony
 ---
