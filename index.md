@@ -56,8 +56,8 @@ sections:
       button: Proceed to Gallery Four
       subtitle: WE, THE PEOPLE OF SINGAPORE
   - infopic:
-      description: "Take a walk along these streets to see how close together the
-        different religious sites are located. "
+      description: Take a (virtual tour or * ) walk along these streets to see how
+        close together the different religious sites are located.
       button: View more
       url: /streets-of-harmony/telok-aye-amoy-streets
       alt: Image alt text
