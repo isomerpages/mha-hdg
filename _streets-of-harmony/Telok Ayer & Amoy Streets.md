@@ -39,7 +39,7 @@ One of the oldest Hokkien temples in Singapore, the **[Thian Hock Keng Temple](h
 
 Next to but distinct from the Thian Hock Keng Temple is the revamped Taoist Mission or the Hu Huang Gong (Temple of the Heavenly Jade Emperor), It is housed in the 180 year old Keng Teck Way Association building set up by Hokkien Peranakan merchants from Singapore and Malacca.
 
-The **[Nagore Dargah Shrine](https://www.roots.gov.sg%20Hock%20Keng/places-landing/Places/national-monuments/former-nagore-dargah)** was built between 1828 -1830 and was originally known as the Shahul Hamid Durgha.
+The **[Nagore Dargah Shrine](https://www.roots.gov.sg/en/places/places-landing/Places/national-monuments/former-nagore-dargah)** was built between 1828 -1830 and was originally known as the Shahul Hamid Durgha.
 
 The places of worship preceded the partitioning of the land in Telok Ayer and construction of the shophouses in between, which used to be open ground.
 
