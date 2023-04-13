@@ -10,14 +10,14 @@ description: Telok Ayer Street extends from Market Street to Anson Road. Telok
 ---
 <div class="row" style="background: #fbd280;">
 	<div class="col is-3"><img src="/images/Outdoor%20Trail%20(2).jpg" alt="Self Guided Tour"></div>
-	<div class="col is-9">Book a walking tour here or go on a self-guided walking tour to find out more about the Telok Ayer of the 1800s, a diverse neighbourhood with many communities of different ethnicities and religious backgrounds living in close proximity to one another.  Learn how these interactions can result in both harmony and tensions.</div>
+	<div class="col is-9">Book a walking tour here? or go on a self-guided walking tour to find out more about the Telok Ayer of the 1800s, a diverse neighbourhood with many communities of different ethnicities and religious backgrounds living in close proximity to one another.  Learn how these interactions can result in both harmony and tensions.</div>
 	</div>
 
 ![Streets of Harmony Tour Route](/images/Street%20Of%20Harmony%20Tour%20Route.png)
 
 **A Brief History of Telok Ayer**
 
-Telok Ayer Street located just outside the HDG and beside the Amoy Street Hawker Centre, is home to several historically significant sites and National Monuments.
+Telok Ayer Street located just outside the HDG and beside the Amoy Street Food Centre, is home to several historically significant sites and National Monuments.
 
 Telok Ayer is “water bay” in Malay and as the name suggests, used to face the sea (now Shenton Way)  and served as a landing site for early migrants in 1800s.  It was designated a Chinese district in 1822 by the founder of colonial Singapore, Stamford Raffles and was prominent as a landing site for migrants from South China and South India.  Grateful for their safe journeys, many would set up altars and shrines to thank their respective gods.  
 
@@ -25,7 +25,7 @@ Indian Muslims from the Coromandel Coast in south India, often referred to as Ch
 
 The Hokkiens from Fujian, China, set up a simple shrine in 1819, dedicated to the Goddess of the Sea, Ma-Zu-Po to give thanks for their safe from Southern China.  The **Thian Hock Keng Temple** eventually grew out of this shrine in 1842 and now houses shrines to several Chinese deities. 
 
-Next to the Thian Hock Keng Temple is the Taoist Mission or the Singapore Yu Huang Gong, situated in a 180 year old building previously owned by a self help organisation started by **Peranakan** Hokkiens from Singapore and Malacca.  It is often mistaken as part of the larger Thian Hock Keng Temple.
+Next to the Thian Hock Keng Temple is the Taoist Mission or the Singapore Yu Huang Gong, situated in a 180 year old building previously owned by a self help organisation started by Peranakan Hokkiens from Singapore and Malacca.  It is often mistaken as part of the larger Thian Hock Keng Temple.
 
 ![Telok Ayer Methodist Church](/images/Telok%20Ayer%20Methodist%20Church.jpg)
 
