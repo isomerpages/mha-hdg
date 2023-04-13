@@ -16,6 +16,6 @@ In this final gallery, visitors are invited to reflect on the role we can play i
 
 <div class="row" style="background:#a6d994;">
 <div class="col is-4">
-	<img src="/images/jain%20religious%20leaders%20visited%20hdg%20on%2026th%20jan%202023%20image%202.jpg">
+	<img src="/images/jain%20religious%20leaders%20visit.jpg">
 	</div>
 	<div class="col is-8"><b>Make a Difference:</b>  What can you do to help strengthen Singapore's religious harmony? Make a commitment today and watch our Harmony Tree grow! <br><br><b>Be Inspired by the Ordinary:</b> How can all of us contribute to Singapore's religious peace? Be inspired by fellow Singaporeans as they share what religious harmony means to them.</div></div>
