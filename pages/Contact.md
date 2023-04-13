@@ -10,7 +10,7 @@ description: Find out where Harmony In Diversity Gallery is located and how to
 **Address**  
 Ministry of National Development (MND) Building Annexe B  
 7 Maxwell Road, #04-05/06, Singapore 069111  
-(above Amoy Street Hawker Centre via stairs or lifts A, B and C at both ends of the Hawker Centre)
+(above Amoy Street Food Centre via stairs or lifts A, B and C at both ends of the Food Centre)
 
 **Contact**  
 [6221 8942](tel:62218942)
