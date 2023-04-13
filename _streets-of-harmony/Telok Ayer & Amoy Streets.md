@@ -49,5 +49,5 @@ The first Anglo-Chinese School in Singapore, which used to be located at shophou
 
 ACS although started by Methodist missionaries and Peranakan Chinese, accepted multi racial students from different faiths. 
 
-External sites
-https://remembersingapore.org/2016/09/14/telok-ayer-street-places-of-worship/
+External sites: 
+[https://remembersingapore.org/2016/09/14/telok-ayer-street-places-of-worship/](https://remembersingapore.org/2016/09/14/telok-ayer-street-places-of-worship/)
