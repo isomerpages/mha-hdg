@@ -26,3 +26,5 @@ Will we let our differences divide us or our commonalities unite us?<br><br>
 <div class="row" style="background: #bd9cc7; color:#fff;">
 	<div class="col is-12"><b>Travel Back in Time:</b> Join 13-year-old Anne as she seeks to understand how and why the Maria Hertogh Riots took place.<br><br><b>Time to Explore:</b> Take a look at the unique artefacts of different religions on display and discover what they have in common. </div>
 	</div>
+	
+	
