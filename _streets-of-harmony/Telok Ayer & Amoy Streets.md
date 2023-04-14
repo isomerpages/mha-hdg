@@ -10,7 +10,7 @@ description: Telok Ayer Street extends from Market Street to Anson Road. Telok
 ---
 <div class="row" style="background: #fbd280;">
 	<div class="col is-3"><img src="/images/Outdoor%20Trail%20(2).jpg" alt="Self Guided Tour"></div>
-	<div class="col is-9">Book a walking tour here? or go on a self-guided walking tour to find out more about the Telok Ayer of the 1800s, a diverse neighbourhood with many communities of different ethnicities and religious backgrounds living in close proximity to one another.  Learn how these interactions can result in both harmony and tensions.</div>
+	<div class="col is-9">Book a walking tour <a target="_blank" href="https://form.gov.sg/#!/5bab41b04e2ef2000f8f2a4d">here</a> or go on a self-guided walking tour to find out more about the Telok Ayer of the 1800s, a diverse neighbourhood with many communities of different ethnicities and religious backgrounds living in close proximity to one another.  Learn how these interactions can result in both harmony and tensions.</div>
 	</div>
 
 ![Streets of Harmony Tour Route](/images/Street%20Of%20Harmony%20Tour%20Route.png)
