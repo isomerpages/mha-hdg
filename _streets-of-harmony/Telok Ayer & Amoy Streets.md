@@ -27,19 +27,19 @@ The Hokkiens from Fujian, China, set up a simple shrine in 1819, dedicated to th
 
 Next to the Thian Hock Keng Temple is the Taoist Mission or the Singapore Yu Huang Gong, situated in a 180 year old building previously owned by a self help organisation started by Peranakan Hokkiens from Singapore and Malacca.  It is often mistaken as part of the larger Thian Hock Keng Temple.
 
-<div class="col is-8 offset-2">
+<div class="col is-8 is-offset-2">
 <img src="/images/Telok%20Ayer%20Methodist%20Church.jpg" alt="Telok Ayer Chinese Methodist Church">
 </div>
 
 The **[Telok Ayer Chinese Methodist Church](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/telok-ayer-chinese-methodist-church)** build in 1925 could trace its history to a shophouse (no longer in existence) at Upper Nanking Street in 1889.  Its pioneering missionary Dr Benjamin West preached in Malay which was then translated into Hokkien. Today it holds services in Mandarin, Hokkien, English and Bahasa Indonesia.
 
-<div class="col is-8 offset-2">
+<div class="col is-8 is-offset-2">
 <img src="/images/al%20abrar%20mosque%20.jpg" alt="Al-Abrar Mosque">
 </div>
 
 The **[Al-Abrar Mosque](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/al-abrar-mosque)** located at 192 Telok Ayer Street was established in 1827 for the Tamil Muslim Chulias from south India. The present building was built between 1850 and 1855 and it was also also known as  Masjid Chulia or Chulia Mosque
 
-<div class="col is-8 offset-2">
+<div class="col is-8 is-offset-2">
 <img src="/images/outdoor%20walkingtrail.jpg" alt="Thian Hock Keng Entrance">
 </div>
 
@@ -47,7 +47,7 @@ One of the oldest Hokkien temples in Singapore, the **[Thian Hock Keng Temple](h
 
 Next to but distinct from the Thian Hock Keng Temple is the revamped [Taoist Mission](https://www.taoism.org.sg) or the Yu Huang Gong (Temple of the Heavenly Jade Emperor), It is housed in the 180 year old Keng Teck Way Association building set up by Hokkien Peranakan merchants from Singapore and Malacca.
 
-<div class="col is-8 offset-2">
+<div class="col is-8 is-offset-2">
 <img src="/images/nagore%20dargah%20shrine.jpg" alt="Nagore Dargah Shrine">
 </div>
 
@@ -55,7 +55,7 @@ The Indian Muslim Heritage Centre, previously named as the **[Nagore Dargah Shri
 
 The places of worship preceded the partitioning of the land in Telok Ayer and construction of the shophouses in between, which used to be open ground.
 
-<div class="col is-8 offset-2">
+<div class="col is-8 is-offset-2">
 <img src="/images/acs%20house.JPEG" alt="ACS House">
 </div>
 
