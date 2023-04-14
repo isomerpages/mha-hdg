@@ -61,5 +61,13 @@ The places of worship preceded the partitioning of the land in Telok Ayer and co
 
 The first Anglo-Chinese School in Singapore, which used to be located at shophouse number 70, was started by Methodist missionaries with just 13 pupils along Amoy Street on 1 March 1886. Now called **[ACS House](https://www.roots.gov.sg/places/places-landing/Places/historic-sites/anglo-chinese-school)**, this place has been classified as a historic site since the late 1990s.
 
-ACS although started by Methodist missionaries and Peranakan Chinese, accepted multi racial students from different faiths. 
+ACS although started by Methodist missionaries and Peranakan Chinese, accepted multi racial students from different faiths.
 
+<div class="row">
+<div class="col is-6"><img src="/images/thk%20mural%201.jpg" alt="THK Mural 1"></div>
+	<div class="col is-6"><img src="/images/thk%20mural%204.jpg" alt="THK Mural 4">
+	</div>
+	<div class="col is-12">
+		"Murals drawn by local artist Yip Yew Chong, at the back wall of Thian Hock Keng temple along Amy Street"
+	</div>
+	</div>
