@@ -17,7 +17,13 @@ Will we let our differences divide us or our commonalities unite us?<br><br>
 <div class="col is-6"><img src="/images/Gallery%202%20Common%20Practice%201.jpg" alt="Gallery 2 - Common Practice 1"></div>
 	<div class="col is-6"><img src="/images/Gallery%202%20Religions%202.jpg" alt="Gallery 2 - Religions 2">
 	</div>
-	</div>
+</div>
+
+<div class="row" style="background: #bd9cc7;">
+<div class="col is-6"><img src="/images/G2_highlights.jpg" alt="Gallery 2 Highlights"></div>
+<div class="col is-6"><img src="/images/gallery%202.jpg" alt="Gallery 2"></div>
+</div>
+
 <div class="row" style="background: #bd9cc7; color:#fff;">
 	<div class="col is-12"><b>Travel Back in Time:</b> Join 13-year-old Anne as she seeks to understand how and why the Maria Hertogh Riots took place.<br><br><b>Time to Explore:</b> Take a look at the unique artefacts of different religions on display and discover what they have in common. </div>
 	</div>
