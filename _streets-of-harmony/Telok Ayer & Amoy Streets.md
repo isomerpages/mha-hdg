@@ -45,7 +45,7 @@ The **[Al-Abrar Mosque](https://www.roots.gov.sg/places/places-landing/Places/na
 
 One of the oldest Hokkien temples in Singapore, the **[Thian Hock Keng Temple](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/thian-hock-keng)** was a humble joss house in 1821-22. It was erected in honour of Ma Zu Po, the Protector of Sojourners, and Chinese immigrants would go there to offer thanks for a safe sea passage from China . Between 1839 to 1842, the joss house was rebuilt as Thian Hock Keng Temple by philanthropist Tan Tock Seng.
 
-Next to but distinct from the Thian Hock Keng Temple is the revamped [Taoist Mission](https://www.taoism.org.sg) or the Yu Huang Gong (Temple of the Heavenly Jade Emperor), It is housed in the 180 year old Keng Teck Way Association building set up by Hokkien Peranakan merchants from Singapore and Malacca.
+Next to but distinct from the Thian Hock Keng Temple is the revamped [Taoist Mission](http://www.taoism.org.sg) or the Yu Huang Gong (Temple of the Heavenly Jade Emperor), It is housed in the 180 year old Keng Teck Way Association building set up by Hokkien Peranakan merchants from Singapore and Malacca.
 
 <div class="col is-8 is-offset-2">
 <img src="/images/nagore%20dargah%20shrine.jpg" alt="Nagore Dargah Shrine">
