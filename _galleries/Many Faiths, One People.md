@@ -9,7 +9,7 @@ Singapore's common spaces - places where people of different races and faiths in
 
 <div class="row" style="background: #7fd2f0;">
 	<div class="col is-6"><img src="/images/gallery%203%20-%20coffee%20shop.jpg" alt="Gallery 3 - Coffee Shop"></div>
-	<div class="col is-6"><a href="/streets-of-harmony/telok-aye-amoy-streets/"><img src="/images/Streets%20of%20Harmony.jpg" alt="Streets of Harmony"></a></div>
+	<div class="col is-6"><a href="/streets-of-harmony/telok-ayer-amoy-streets/"><img src="/images/Streets%20of%20Harmony.jpg" alt="Streets of Harmony"></a></div>
 </div>
 
 <div class="row" style="background: #7fd2f0;">

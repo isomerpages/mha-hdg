@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: View our Terms of Use
 ---
-1.  Thank you for visiting harmonyindiversitygallery.sg (henceforth known as "Site"). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
+1.  Thank you for visiting harmonyindiversitygallery.gov.sg (henceforth known as "Site"). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
 
 #### GENERAL
 
@@ -16,7 +16,7 @@ description: View our Terms of Use
 
 #### PRIVACY STATEMENT
 
-5.  Click here to review this Site [Privacy Statement](https://www.harmonyindiversitygallery.gov.sg/privacy-statement.html "Government of Singapore Privacy Statement").
+5.  Click here to review this Site&nbsp;[Privacy Statement](https://www.harmonyindiversitygallery.gov.sg/privacy "Government of Singapore Privacy Statement").
 
 #### RESTRICTIONS ON USE OF CONTENTS
 
@@ -34,18 +34,22 @@ description: View our Terms of Use
 #### RIGHT OF ACCESS
 
 9.  MHA reserves all rights to deny or restrict access to this Site to any particular person, or to block access from a particular Internet address to this Site, at any time, without ascribing any reasons whatsoever.
-LINKS "FROM" THIS SITE TO OTHER WEBSITES
-This Site contains hyperlinks to websites which are not maintained by MHA. MHA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyper-links and access to such websites are entirely at your own risk.
-Hyperlinks to other websites are provided as a convenience to the user. In no circumstances shall MHA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.
-LINKS "TO" THIS SITE FROM OTHER WEBSITES
-Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.
-Linking to the Homepage: You may link to the Homepage of this Site, upon notifying MHA in writing.
-Hyperlinking to an internal page of this Site: You must make a specific request for, and secure permission from MHA prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. MHA reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents.
-Your linking to, or your framing of this Site or any of the Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Site or any of the Contents.
-Under no circumstances shall MHA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this Site or any of the Contents.
-MHA reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
-MHA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from this Site or any of the Contents.
-GOVERNING LAW
-These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+
+#### LINKS "FROM" THIS SITE TO OTHER WEBSITES
+
+10. This Site contains hyperlinks to websites which are not maintained by MHA. MHA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyper-links and access to such websites are entirely at your own risk.
+11. Hyperlinks to other websites are provided as a convenience to the user. In no circumstances shall MHA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.
+
+#### LINKS "TO" THIS SITE FROM OTHER WEBSITES
+12. Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited.
+13. <b>Linking to the Homepage:</b> You may link to the Homepage of this Site, upon notifying MHA in writing.
+14. <b>Hyperlinking to an internal page of this Site:</b> You must make a specific request for, and secure permission from MHA prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. MHA reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents.
+15. Your linking to, or your framing of this Site or any of the Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Site or any of the Contents.
+16. Under no circumstances shall MHA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this Site or any of the Contents.
+17. MHA reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+18. MHA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from this Site or any of the Contents.
+
+#### GOVERNING LAW
+19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
 
 Last Updated on 05 Feb 2023

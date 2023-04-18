@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/carousel1.jpg
+      background: /images/home page_cropped.jpg
   - infobar:
       subtitle: ABOUT THE GALLERY
       description: The HDG was set up by MHA in collaboration with community partners
@@ -50,17 +50,17 @@ sections:
       description: Come and reflect on the role you can play in helping to sustain a
         harmonious Singapore. Make a personal commitment to preserve this
         precious legacy.
-      image: /images/g4-tree.jpg
+      image: /images/gallery 4_cropped.jpg
       alt: Tree
       url: /galleries/we-the-people-of-singapore
       button: Proceed to Gallery Four
       subtitle: WE, THE PEOPLE OF SINGAPORE
   - infopic:
-      description: "Take a walk along these streets to see how close together the
-        different religious sites are located. "
+      description: Take a walk along these streets to see how close together the
+        different religious sites are located.
       button: View more
-      url: /streets-of-harmony/telok-aye-amoy-streets
+      url: /streets-of-harmony/telok-ayer-amoy-streets
       alt: Image alt text
-      image: /images/Telok Ayer Street.jpg
       subtitle: Streets of Harmony
+      image: /images/al abrar mosque thk temple and nagore durgha_hp.jpg
 ---
