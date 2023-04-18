@@ -70,7 +70,6 @@ ACS although started by Methodist missionaries and Peranakan Chinese, accepted m
 </div>
 
 <div class="row">
-	<div class="col is-12">
-		"Murals drawn by local artist Yip Yew Chong, at the back wall of Thian Hock Keng temple along Amoy Street"
+	<div class="col is-12">Murals drawn by local artist Yip Yew Chong, at the back wall of Thian Hock Keng temple along Amoy Street
 	</div>
 </div>
