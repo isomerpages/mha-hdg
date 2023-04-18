@@ -50,7 +50,7 @@ sections:
       description: Come and reflect on the role you can play in helping to sustain a
         harmonious Singapore. Make a personal commitment to preserve this
         precious legacy.
-      image: /images/gallery 4 - hp.jpg
+      image: /images/gallery 4_cropped.jpg
       alt: Tree
       url: /galleries/we-the-people-of-singapore
       button: Proceed to Gallery Four
