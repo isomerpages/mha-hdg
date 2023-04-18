@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: View our Terms of Use
 ---
-1.  Thank you for visiting&nbsp;harmonyindiversitygallery.sg&nbsp;(henceforth known as "Site"). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
+1.  Thank you for visiting harmonyindiversitygallery.gov.sg (henceforth known as "Site"). By accessing and using any part of this Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
 
 #### GENERAL
 
