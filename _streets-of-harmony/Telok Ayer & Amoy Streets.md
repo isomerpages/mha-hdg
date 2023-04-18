@@ -21,9 +21,9 @@ Telok Ayer Street located just outside the HDG and beside the Amoy Street Food C
 
 Telok Ayer is “water bay” in Malay and as the name suggests, used to face the sea (now Shenton Way)  and served as a landing site for early migrants in 1800s.  It was designated a Chinese district in 1822 by the founder of colonial Singapore, Stamford Raffles and was prominent as a landing site for migrants from South China and South India.  Grateful for their safe journeys, many would set up altars and shrines to thank their respective gods.  
 
-Indian Muslims from the Coromandel Coast in south India, often referred to as Chulias that had survived the perilous journey, built the **Al-Abrar Mosque** and the **Nagore Dargah Shrine (now Indian Muslim Heritage Centre) at 192 and 140 Telok Ayer Street**.     
+Indian Muslims from the Coromandel Coast in south India, often referred to as Chulias that had survived the perilous journey, built the **Al-Abrar Mosque** and the **Nagore Dargah Shrine (now Indian Muslim Heritage Centre)** at 192 and 140 Telok Ayer Street respectively.     
 
-The Hokkiens from Fujian, China, set up a simple shrine in 1819, dedicated to the Goddess of the Sea, Ma-Zu-Po to give thanks for their safe from Southern China.  The **Thian Hock Keng Temple** eventually grew out of this shrine in 1842 and now houses shrines to several Chinese deities. 
+The Hokkiens from Fujian, China, set up a simple shrine in 1819, dedicated to the Goddess of the Sea, Ma-Zu-Po to give thanks for their safe journey from Southern China. The **Thian Hock Keng Temple** eventually grew out of this shrine in 1842 and now houses shrines to several Chinese deities. 
 
 Next to the Thian Hock Keng Temple is the Taoist Mission or the Singapore Yu Huang Gong, situated in a 180 year old building previously owned by a self help organisation started by Peranakan Hokkiens from Singapore and Malacca.  It is often mistaken as part of the larger Thian Hock Keng Temple.
 
