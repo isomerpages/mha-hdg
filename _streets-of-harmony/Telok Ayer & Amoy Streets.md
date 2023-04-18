@@ -51,7 +51,7 @@ Next to but distinct from the Thian Hock Keng Temple is the revamped [Taoist Mis
 <img src="/images/nagore%20dargah%20shrine.jpg" alt="Nagore Dargah Shrine">
 </div>
 
-The Indian Muslim Heritage Centre, previously named as the **[Nagore Dargah Shrine](https://www.roots.gov.sg/en/places/places-landing/Places/national-monuments/former-nagore-dargah)** was built between 1828 -1830 and was originally known as the Shahul Hamid Durgha.
+The **[Nagore Dargah](https://www.roots.gov.sg/en/places/places-landing/Places/national-monuments/former-nagore-dargah)** (Indian Muslim Heritage Centre), previously named as the Nagore Dargah Shrine was built between 1828 -1830 and was originally known as the Shahul Hamid Durgha.
 
 The places of worship preceded the partitioning of the land in Telok Ayer and construction of the shophouses in between, which used to be open ground.
 
