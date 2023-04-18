@@ -59,7 +59,7 @@ sections:
       description: Take a walk along these streets to see how close together the
         different religious sites are located.
       button: View more
-      url: /streets-of-harmony/telok-aye-amoy-streets
+      url: /streets-of-harmony/telok-ayer-amoy-streets
       alt: Image alt text
       subtitle: Streets of Harmony
       image: /images/al abrar mosque thk temple and nagore durgha_hp.jpg
