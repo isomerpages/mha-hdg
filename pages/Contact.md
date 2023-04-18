@@ -13,7 +13,7 @@ Ministry of National Development (MND) Building Annexe B
 (above Amoy Street Food Centre via stairs or lifts A, B and C at both ends of the Food Centre)
 
 **Contact**  
-[6221 8942](tel:62218942)
+6221 8942
 
 **Gallery Opening Hours**  
 Mondays to Saturdays  
