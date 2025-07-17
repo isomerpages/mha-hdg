@@ -9,7 +9,9 @@ description: The Harmony in Diversity Gallery (HDG) was developed by the
   religious peace and harmony we enjoy today.
 image: /images/masthead_logo_270.png
 permalink: /
-notification: ""
+notification: Government officials will Never ask you to transfer money or
+  disclose bank log-in details over a phone call.  Call the Scamshield Helpline
+  (24/7) at 1799 if you are unsure of a scam.
 sections:
   - hero:
       background: /images/home page_cropped.jpg
@@ -20,9 +22,9 @@ sections:
       button: Read More
       url: /about
   - infopic:
-      description: "Singapore’s religious diversity can be a source of strength or
+      description: Singapore’s religious diversity can be a source of strength or
         friction. Come and explore how religion is an inherent fault line in
-        many societies. "
+        many societies.
       alt: "G1: JOURNEY OF FAITH"
       image: /images/G1_1.jpg
       button: Proceed to Gallery One
