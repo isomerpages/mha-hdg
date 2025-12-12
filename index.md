@@ -20,7 +20,7 @@ sections:
           description: Key Highlight description
           url: ""
         - title: Harmony in Diversity
-          description: Key Highlight description
+          description: Seeking Common Ground
           url: ""
   - infobar:
       subtitle: ABOUT THE GALLERY
