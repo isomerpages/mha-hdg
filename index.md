@@ -15,6 +15,10 @@ notification: Government officials will Never ask you to transfer money or
 sections:
   - hero:
       background: /images/home page_cropped.jpg
+      key_highlights:
+        - title: Harmony in Diversity
+          description: Seeking Common Ground
+          url: ""
   - infobar:
       subtitle: ABOUT THE GALLERY
       description: The HDG was set up by MHA in collaboration with community partners
