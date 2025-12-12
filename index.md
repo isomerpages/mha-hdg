@@ -19,6 +19,9 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
+        - title: Harmony in Diversity
+          description: Key Highlight description
+          url: ""
   - infobar:
       subtitle: ABOUT THE GALLERY
       description: The HDG was set up by MHA in collaboration with community partners
